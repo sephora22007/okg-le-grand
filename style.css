@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.hero {
+    min-height: 80vh;
+}
+
+.hero h1 {
+    letter-spacing: -2px;
+}
+
+.hero img {
+    max-height: 500px;
+    width: 100%;
+    object-fit: cover;
+}
